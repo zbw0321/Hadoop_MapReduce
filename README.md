@@ -1,2 +1,2 @@
 # Hadoop_MapReduce
-This is two projects about MapReduce
+This is the projects about MapReduce
