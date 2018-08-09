@@ -1,2 +1,2 @@
 # Hadoop_MapReduce
-This is the projects about MapReduce
+Use the Graph, find the shortest path from all nodes to the source node
